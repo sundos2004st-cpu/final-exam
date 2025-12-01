@@ -1,0 +1,28 @@
+.imgabout {
+  display: block;
+  margin: 0 auto; /* في المنتصف */
+  width: 40%; /* تصغير الصورة */
+}
+
+.card-title1 {
+  color:rgb(225, 150, 37);
+  font-weight: bold;
+}
+
+.imgabout1 {
+  display: block;
+  margin: 0 auto; /* في المنتصف */
+  width: 70%; /* تصغير الصورة */
+}
+
+.H1ABOUT{
+    text-align: center;
+    margin: 40px;
+
+}
+
+.h1prodact{
+   text-align: center;
+    margin: 40px;
+
+}
